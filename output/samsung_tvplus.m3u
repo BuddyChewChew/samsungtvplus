@@ -2309,7 +2309,7 @@ https://jmp2.uk/stvp-FR300001M1
 https://jmp2.uk/stvp-GBBD3100003J5
 #EXTINF:-1 tvg-id="FR300006GF" tvg-name="RMC MYSTERE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png" group-title="Divertissement" tvg-chno="4034",RMC MYSTERE
 https://jmp2.uk/stvp-FR300006GF
-#EXTINF:-1 tvg-id="ESBC4100002AG" tvg-name="La 2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20260622T063715SQUARE.png" group-title="Entretenimiento" tvg-chno="4035",La 2
+#EXTINF:-1 tvg-id="ESBC4100002AG" tvg-name="La 2 [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20260622T063715SQUARE.png" group-title="Entretenimiento" tvg-chno="4035" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?drm-type=widevine",La 2 [DRM]
 https://jmp2.uk/stvp-ESBC4100002AG
 #EXTINF:-1 tvg-id="ES300030ZT" tvg-name="Telemadrid [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300030ZT_20260622T063747SQUARE.png" group-title="Entretenimiento" tvg-chno="4038" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?drm-type=widevine",Telemadrid [DRM]
 https://jmp2.uk/stvp-ES300030ZT
@@ -3535,7 +3535,7 @@ https://jmp2.uk/stvp-ATBA3300031VR
 https://jmp2.uk/stvp-CHBA3300028G3
 #EXTINF:-1 tvg-id="DEBA3300042XG" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20260505T035455SQUARE.png" group-title="Dokus & Wissen" tvg-chno="4486",Wilder Planet
 https://jmp2.uk/stvp-DEBA3300042XG
-#EXTINF:-1 tvg-id="GBBB5000002PL" tvg-name="Wild Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20260113T032601SQUARE.png" group-title="Nature" tvg-chno="4486",Wild Planet
+#EXTINF:-1 tvg-id="GBBB5000002PL" tvg-name="Wild Planet [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20260113T032601SQUARE.png" group-title="Nature" tvg-chno="4486" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?drm-type=widevine",Wild Planet [DRM]
 https://jmp2.uk/stvp-GBBB5000002PL
 #EXTINF:-1 tvg-id="FRBC4000001IO" tvg-name="Destination Nature" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20260421T125707SQUARE.png" group-title="Documentaires" tvg-chno="4487",Destination Nature
 https://jmp2.uk/stvp-FRBC4000001IO
@@ -3761,7 +3761,7 @@ https://jmp2.uk/stvp-AT2200004OF
 https://jmp2.uk/stvp-CH2200006VD
 #EXTINF:-1 tvg-id="DE2200005GX" tvg-name="Welt" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2200005GX_20260407T035907SQUARE.png" group-title="News" tvg-chno="4551",Welt
 https://jmp2.uk/stvp-DE2200005GX
-#EXTINF:-1 tvg-id="ESBC4100004J1" tvg-name="24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260622T063654SQUARE.png" group-title="Noticias" tvg-chno="4551",24H
+#EXTINF:-1 tvg-id="ESBC4100004J1" tvg-name="24H [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260622T063654SQUARE.png" group-title="Noticias" tvg-chno="4551" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?drm-type=widevine",24H [DRM]
 https://jmp2.uk/stvp-ESBC4100004J1
 #EXTINF:-1 tvg-id="ITBD1500002NL" tvg-name="La 7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20241022T051646SQUARE.png" group-title="News" tvg-chno="4551",La 7
 https://jmp2.uk/stvp-ITBD1500002NL
@@ -4515,7 +4515,7 @@ https://jmp2.uk/stvp-FR2200002HV
 https://jmp2.uk/stvp-GB2200001N2
 #EXTINF:-1 tvg-id="IT2200001FW" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2200001FW_20260609T044329SQUARE.png" group-title="Musica e Ambient" tvg-chno="4769",Fireplace Vibes
 https://jmp2.uk/stvp-IT2200001FW
-#EXTINF:-1 tvg-id="ESBC4100003WE" tvg-name="Clan" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20260622T063701SQUARE.png" group-title="Niños" tvg-chno="4771",Clan
+#EXTINF:-1 tvg-id="ESBC4100003WE" tvg-name="Clan [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20260622T063701SQUARE.png" group-title="Niños" tvg-chno="4771" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?drm-type=widevine",Clan [DRM]
 https://jmp2.uk/stvp-ESBC4100003WE
 #EXTINF:-1 tvg-id="GBBD3200003T6" tvg-name="Tiny POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20250107T030811SQUARE.png" group-title="Kids" tvg-chno="4771",Tiny POP
 https://jmp2.uk/stvp-GBBD3200003T6
