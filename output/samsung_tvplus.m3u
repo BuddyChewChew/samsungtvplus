@@ -423,12 +423,18 @@ https://jmp2.uk/stvp-USBD3000073N
 https://jmp2.uk/stvp-IN2100005T2
 #EXTINF:-1 tvg-id="CA15000018F" tvg-name="CBC News BC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA15000018F_20250401T004701SQUARE.png" group-title="News & Opinion" tvg-chno="1122",CBC News BC
 https://jmp2.uk/stvp-CA15000018F
+#EXTINF:-1 tvg-id="USBC1000017D8" tvg-name="WSOC Charlotte" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20260421T143646SQUARE.png" group-title="News & Opinion" tvg-chno="1122",WSOC Charlotte
+https://jmp2.uk/stvp-USBC1000017D8
 #EXTINF:-1 tvg-id="CA4600010PN" tvg-name="CBC News Calgary" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600010PN_20250401T004709SQUARE.png" group-title="News & Opinion" tvg-chno="1123",CBC News Calgary
 https://jmp2.uk/stvp-CA4600010PN
 #EXTINF:-1 tvg-id="IN3800010SH" tvg-name="Hollywood Desi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800010SH_20260623T015040SQUARE.png" group-title="Movies" tvg-chno="1123",Hollywood Desi
 https://jmp2.uk/stvp-IN3800010SH
+#EXTINF:-1 tvg-id="US700004OA" tvg-name="WBTV News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20260421T143852SQUARE.png" group-title="News & Opinion" tvg-chno="1123",WBTV News
+https://jmp2.uk/stvp-US700004OA
 #EXTINF:-1 tvg-id="CA4600008AI" tvg-name="CBC News Edmonton" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600008AI_20250401T004712SQUARE.png" group-title="News & Opinion" tvg-chno="1124",CBC News Edmonton
 https://jmp2.uk/stvp-CA4600008AI
+#EXTINF:-1 tvg-id="US1400004HN" tvg-name="WCNC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20260421T144031SQUARE.png" group-title="News & Opinion" tvg-chno="1124",WCNC
+https://jmp2.uk/stvp-US1400004HN
 #EXTINF:-1 tvg-id="CA4600012O1" tvg-name="CBC News Manitoba" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600012O1_20250401T004715SQUARE.png" group-title="News & Opinion" tvg-chno="1125",CBC News Manitoba
 https://jmp2.uk/stvp-CA4600012O1
 #EXTINF:-1 tvg-id="CA4600006DO" tvg-name="CBC News New Brunswick" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600006DO_20250401T004718SQUARE.png" group-title="News & Opinion" tvg-chno="1126",CBC News New Brunswick
@@ -459,8 +465,8 @@ https://jmp2.uk/stvp-US50000551O
 https://jmp2.uk/stvp-CA1500002Q4
 #EXTINF:-1 tvg-id="CA4600015MG" tvg-name="CBC News Windsor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600015MG_20250401T004741SQUARE.png" group-title="News & Opinion" tvg-chno="1135",CBC News Windsor
 https://jmp2.uk/stvp-CA4600015MG
-#EXTINF:-1 tvg-id="USBC1500009LD" tvg-name="WeatherNation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20260421T133617SQUARE.png" group-title="News & Opinion" tvg-chno="1135",WeatherNation
-https://jmp2.uk/stvp-USBC1500009LD
+#EXTINF:-1 tvg-id="USBC3200001S5" tvg-name="WN Charlotte" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20260421T144319SQUARE.png" group-title="News & Opinion" tvg-chno="1135",WN Charlotte
+https://jmp2.uk/stvp-USBC3200001S5
 #EXTINF:-1 tvg-id="CABC23000223U" tvg-name="The Weather Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000223U_20260421T141242SQUARE.png" group-title="News & Opinion" tvg-chno="1138",The Weather Network
 https://jmp2.uk/stvp-CABC23000223U
 #EXTINF:-1 tvg-id="US4000033L" tvg-name="BBC News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20260421T133849SQUARE.png" group-title="News & Opinion" tvg-chno="1140",BBC News
