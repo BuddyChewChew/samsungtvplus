@@ -775,7 +775,7 @@ https://jmp2.uk/stvp-INBD4000027E
 https://jmp2.uk/stvp-USBD300002TU
 #EXTINF:-1 tvg-id="USBD300003LK" tvg-name="ION Plus" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20260421T133722SQUARE.png" group-title="Action & Drama" tvg-chno="1511",ION Plus
 https://jmp2.uk/stvp-USBD300003LK
-#EXTINF:-1 tvg-id="USBD2500018X6" tvg-name="Stories by AMC [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20260421T134144SQUARE.png" group-title="Action & Drama" tvg-chno="1515" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=USBD2500018X6&drm-type=widevine",Stories by AMC [DRM]
+#EXTINF:-1 tvg-id="USBD2500018X6" tvg-name="Stories by AMC [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20260421T134144SQUARE.png" group-title="Action & Drama" tvg-chno="1515" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Stories by AMC [DRM]
 https://jmp2.uk/stvp-USBD2500018X6
 #EXTINF:-1 tvg-id="INBD2500007PD" tvg-name="TV9 Bangla" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500007PD_20260623T015715SQUARE.png" group-title="Regional News" tvg-chno="1516",TV9 Bangla
 https://jmp2.uk/stvp-INBD2500007PD
@@ -1455,7 +1455,7 @@ https://jmp2.uk/stvp-CA2900012S9
 https://jmp2.uk/stvp-US2900017P2
 #EXTINF:-1 tvg-id="CA2600001D9" tvg-name="One Championship TV [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2600001D9_20260421T141225SQUARE.png" group-title="Sports & Outdoors" tvg-chno="2352" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=CA2600001D9&drm-type=widevine",One Championship TV [DRM]
 https://jmp2.uk/stvp-CA2600001D9
-#EXTINF:-1 tvg-id="US2600006VY" tvg-name="One Championship TV [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600006VY_20260421T143414SQUARE.png" group-title="Sports & Outdoors" tvg-chno="2352" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US2600006VY&drm-type=widevine",One Championship TV [DRM]
+#EXTINF:-1 tvg-id="US2600006VY" tvg-name="One Championship TV [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600006VY_20260421T143414SQUARE.png" group-title="Sports & Outdoors" tvg-chno="2352" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",One Championship TV [DRM]
 https://jmp2.uk/stvp-US2600006VY
 #EXTINF:-1 tvg-id="CA3500003OX" tvg-name="PFL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3500003OX_20260421T141228SQUARE.png" group-title="Sports & Outdoors" tvg-chno="2354",PFL
 https://jmp2.uk/stvp-CA3500003OX
@@ -2871,7 +2871,7 @@ https://jmp2.uk/stvp-ITBD3200006F0
 https://jmp2.uk/stvp-CHBD3700002F2
 #EXTINF:-1 tvg-id="DE300003AV" tvg-name="Sony One Thriller TV [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300003AV_20260421T123557SQUARE.png" group-title="Serien" tvg-chno="4250" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=DE300003AV&drm-type=widevine",Sony One Thriller TV [DRM]
 https://jmp2.uk/stvp-DE300003AV
-#EXTINF:-1 tvg-id="ES300002Y6" tvg-name="Sony One Series Thriller [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20260421T123720SQUARE.png" group-title="Serie" tvg-chno="4250" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=ES300002Y6&drm-type=widevine",Sony One Series Thriller [DRM]
+#EXTINF:-1 tvg-id="ES300002Y6" tvg-name="Sony One Series Thriller" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20260421T123720SQUARE.png" group-title="Serie" tvg-chno="4250",Sony One Series Thriller
 https://jmp2.uk/stvp-ES300002Y6
 #EXTINF:-1 tvg-id="FR300011G9" tvg-name="Sony One Favoris [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300011G9_20260421T123925SQUARE.png" group-title="Séries TV" tvg-chno="4250" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=FR300011G9&drm-type=widevine",Sony One Favoris [DRM]
 https://jmp2.uk/stvp-FR300011G9
