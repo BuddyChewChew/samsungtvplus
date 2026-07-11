@@ -2763,7 +2763,7 @@ https://jmp2.uk/stvp-AT3000006M1
 https://jmp2.uk/stvp-DE3000009SE
 #EXTINF:-1 tvg-id="ES3300006QL" tvg-name="RTVE La Promesa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260224T030712SQUARE.png" group-title="Serie" tvg-chno="4235",RTVE La Promesa
 https://jmp2.uk/stvp-ES3300006QL
-#EXTINF:-1 tvg-id="FR3000125U" tvg-name="Sony One Séries Thriller [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000125U_20260421T123928SQUARE.png" group-title="Séries TV" tvg-chno="4235" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=FR3000125U&drm-type=widevine",Sony One Séries Thriller [DRM]
+#EXTINF:-1 tvg-id="FR3000125U" tvg-name="Sony One Séries Thriller" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000125U_20260421T123928SQUARE.png" group-title="Séries TV" tvg-chno="4235",Sony One Séries Thriller
 https://jmp2.uk/stvp-FR3000125U
 #EXTINF:-1 tvg-id="GB3000061H" tvg-name="Sony One Thriller TV [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000061H_20260421T123821SQUARE.png" group-title="TV Series" tvg-chno="4235" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=GB3000061H&drm-type=widevine",Sony One Thriller TV [DRM]
 https://jmp2.uk/stvp-GB3000061H
@@ -2881,7 +2881,7 @@ https://jmp2.uk/stvp-CHBD2000023S
 https://jmp2.uk/stvp-DE300005NB
 #EXTINF:-1 tvg-id="ES300003D4" tvg-name="Sony One Éxitos [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20260421T123722SQUARE.png" group-title="Serie" tvg-chno="4251" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=ES300003D4&drm-type=widevine",Sony One Éxitos [DRM]
 https://jmp2.uk/stvp-ES300003D4
-#EXTINF:-1 tvg-id="FR3000082K" tvg-name="Sony One Séries Comédie [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000082K_20260421T123916SQUARE.png" group-title="Séries TV" tvg-chno="4251" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?service_id=FR3000082K&drm-type=widevine",Sony One Séries Comédie [DRM]
+#EXTINF:-1 tvg-id="FR3000082K" tvg-name="Sony One Séries Comédie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000082K_20260421T123916SQUARE.png" group-title="Séries TV" tvg-chno="4251",Sony One Séries Comédie
 https://jmp2.uk/stvp-FR3000082K
 #EXTINF:-1 tvg-id="ITBD3200004KN" tvg-name="Autostop per il Cielo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200004KN_20241022T051533SQUARE.png" group-title="Serie TV" tvg-chno="4251",Autostop per il Cielo
 https://jmp2.uk/stvp-ITBD3200004KN
