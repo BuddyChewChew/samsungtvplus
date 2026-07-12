@@ -1645,7 +1645,7 @@ https://jmp2.uk/stvp-CA1400005SO
 https://jmp2.uk/stvp-USBC1300009VM
 #EXTINF:-1 tvg-id="US2500009PQ" tvg-name="BET x Tyler Perry Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2500009PQ_20260622T055728SQUARE.png" group-title="Comedy" tvg-chno="2632",BET x Tyler Perry Comedy
 https://jmp2.uk/stvp-US2500009PQ
-#EXTINF:-1 tvg-id="US1900011ZN" tvg-name="Are We There Yet? [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900011ZN_20260421T143215SQUARE.png" group-title="Comedy" tvg-chno="2633" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US1900011ZN&drm-type=widevine",Are We There Yet? [DRM]
+#EXTINF:-1 tvg-id="US1900011ZN" tvg-name="Are We There Yet? [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900011ZN_20260421T143215SQUARE.png" group-title="Comedy" tvg-chno="2633" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Are We There Yet? [DRM]
 https://jmp2.uk/stvp-US1900011ZN
 #EXTINF:-1 tvg-id="CA3500006PD" tvg-name="GET Comedy [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3500006PD_20260421T141207SQUARE.png" group-title="Comedy" tvg-chno="2640" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=CA3500006PD&drm-type=widevine",GET Comedy [DRM]
 https://jmp2.uk/stvp-CA3500006PD
