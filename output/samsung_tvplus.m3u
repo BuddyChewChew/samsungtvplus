@@ -3,8 +3,8 @@
 https://jmp2.uk/stvp-KRBD2400001XD
 #EXTINF:-1 tvg-id="KRBD1400001ED" tvg-name="연합뉴스TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20260422T014054SQUARE.png" group-title="뉴스" tvg-chno="502",연합뉴스TV
 https://jmp2.uk/stvp-KRBD1400001ED
-#EXTINF:-1 tvg-id="KR1900001KQ" tvg-name="Samsung Television Network [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1900001KQ_20260528T042755SQUARE.png" group-title="실시간" tvg-chno="504" drm="true" license-url="https://dchqnhmr21udm.cloudfront.net/drm/v3/license?service_id=KR1900001KQ&drm-type=widevine",Samsung Television Network [DRM]
-https://jmp2.uk/stvp-KR1900001KQ
+#EXTINF:-1 tvg-id="KR2900023XU" tvg-name="Samsung Television Network [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900023XU_20260716T004513SQUARE.png" group-title="실시간" tvg-chno="504" drm="true" license-url="https://dchqnhmr21udm.cloudfront.net/drm/v3/license?service_id=KR2900023XU&drm-type=widevine",Samsung Television Network [DRM]
+https://jmp2.uk/stvp-KR2900023XU
 #EXTINF:-1 tvg-id="KRBC4500002Q4" tvg-name="tvN 정년이" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500002Q4_20260708T005744SQUARE.png" group-title="드라마" tvg-chno="505",tvN 정년이
 https://jmp2.uk/stvp-KRBC4500002Q4
 #EXTINF:-1 tvg-id="KRBC3200016H1" tvg-name="tvN 언젠가는 슬기로울 전공의생활" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200016H1_20260708T005738SQUARE.png" group-title="드라마" tvg-chno="506",tvN 언젠가는 슬기로울 전공의생활
