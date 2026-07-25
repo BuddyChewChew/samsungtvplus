@@ -365,14 +365,14 @@ https://jmp2.uk/stvp-USBD3500033U0
 https://jmp2.uk/stvp-CA2900012S9
 #EXTINF:-1 tvg-id="IN4000600Q" tvg-name="Bollygold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260722T004208SQUARE.png" group-title="Movies" tvg-chno="1001",Bollygold
 https://jmp2.uk/stvp-IN4000600Q
-#EXTINF:-1 tvg-id="US18000078A" tvg-name="Little House on the Prairie [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000078A_20260721T032948SQUARE.png" group-title="Western & Classic TV" tvg-chno="1001" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Little House on the Prairie [DRM]
-https://jmp2.uk/stvp-US18000078A
+#EXTINF:-1 tvg-id="US1000014I6" tvg-name="MotoAmerica TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000014I6_20260723T231146SQUARE.png" group-title="Motor Sports" tvg-chno="1001",MotoAmerica TV
+https://jmp2.uk/stvp-US1000014I6
 #EXTINF:-1 tvg-id="CA4700017S7" tvg-name="The First 48" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700017S7_20260721T033231SQUARE.png" group-title="Crime" tvg-chno="1002",The First 48
 https://jmp2.uk/stvp-CA4700017S7
 #EXTINF:-1 tvg-id="IN46000184H" tvg-name="Kings Of Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260722T004201SQUARE.png" group-title="Entertainment" tvg-chno="1002",Kings Of Comedy
 https://jmp2.uk/stvp-IN46000184H
-#EXTINF:-1 tvg-id="US1000014I6" tvg-name="MotoAmerica TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000014I6_20260721T032958SQUARE.png" group-title="Motor Sports" tvg-chno="1002",MotoAmerica TV
-https://jmp2.uk/stvp-US1000014I6
+#EXTINF:-1 tvg-id="US18000078A" tvg-name="Little House on the Prairie [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000078A_20260723T231136SQUARE.png" group-title="Western & Classic TV" tvg-chno="1002" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Little House on the Prairie [DRM]
+https://jmp2.uk/stvp-US18000078A
 #EXTINF:-1 tvg-id="CAAJ2700029OC" tvg-name="FailArmy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700029OC_20260721T033058SQUARE.png" group-title="Comedy" tvg-chno="1003",FailArmy
 https://jmp2.uk/stvp-CAAJ2700029OC
 #EXTINF:-1 tvg-id="IN40000100Y" tvg-name="The Movie Club+2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260722T004254SQUARE.png" group-title="Movies" tvg-chno="1003",The Movie Club+2
