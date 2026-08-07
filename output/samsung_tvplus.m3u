@@ -2091,8 +2091,6 @@ https://jmp2.uk/stvp-USBC4400012QS
 https://jmp2.uk/stvp-CA2300001VX
 #EXTINF:-1 tvg-id="US1000015RF" tvg-name="Grizzy and the Lemmings" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000015RF_20260804T045917SQUARE.png" group-title="Kids" tvg-chno="3639",Grizzy and the Lemmings
 https://jmp2.uk/stvp-US1000015RF
-#EXTINF:-1 tvg-id="CA2300002RG" tvg-name="Johnny Test" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2300002RG_20260804T050307SQUARE.png" group-title="Kids" tvg-chno="3646",Johnny Test
-https://jmp2.uk/stvp-CA2300002RG
 #EXTINF:-1 tvg-id="US2000024KD" tvg-name="Johnny Test" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000024KD_20260804T045841SQUARE.png" group-title="Kids" tvg-chno="3646",Johnny Test
 https://jmp2.uk/stvp-US2000024KD
 #EXTINF:-1 tvg-id="US5100003NU" tvg-name="Pokémon" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5100003NU_20260421T141802SQUARE.png" group-title="Kids" tvg-chno="3648",Pokémon
@@ -2197,7 +2195,7 @@ https://jmp2.uk/stvp-USBB3200016HO
 https://jmp2.uk/stvp-US3000005RS
 #EXTINF:-1 tvg-id="US1800002UQ" tvg-name="El Señor de los Cielos [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800002UQ_20260721T032643SQUARE.png" group-title="Latino" tvg-chno="3855" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US1800002UQ&drm-type=widevine",El Señor de los Cielos [DRM]
 https://jmp2.uk/stvp-US1800002UQ
-#EXTINF:-1 tvg-id="US1800004S5" tvg-name="Caso Cerrado [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800004S5_20260421T142132SQUARE.png" group-title="Latino" tvg-chno="3860" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US1800004S5&drm-type=widevine",Caso Cerrado [DRM]
+#EXTINF:-1 tvg-id="US1800004S5" tvg-name="Caso Cerrado [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800004S5_20260421T142132SQUARE.png" group-title="Latino" tvg-chno="3860" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Caso Cerrado [DRM]
 https://jmp2.uk/stvp-US1800004S5
 #EXTINF:-1 tvg-id="USBA300040WR" tvg-name="Estrella TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300040WR_20240520T212527SQUARE.png" group-title="Latino" tvg-chno="3870",Estrella TV
 https://jmp2.uk/stvp-USBA300040WR
