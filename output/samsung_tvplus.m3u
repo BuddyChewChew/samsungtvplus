@@ -1775,7 +1775,7 @@ https://jmp2.uk/stvp-USBA300004TE
 https://jmp2.uk/stvp-USBB52000246M
 #EXTINF:-1 tvg-id="USAK3508706A" tvg-name="Xtreme Outdoor Presented by HISTORY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20260117T020334SQUARE.png" group-title="Reality Competition" tvg-chno="2779",Xtreme Outdoor Presented by HISTORY
 https://jmp2.uk/stvp-USAK3508706A
-#EXTINF:-1 tvg-id="US4100034UO" tvg-name="Wicked Tuna [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100034UO_20260512T070318SQUARE.png" group-title="Reality Competition" tvg-chno="2785" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US4100034UO&drm-type=widevine",Wicked Tuna [DRM]
+#EXTINF:-1 tvg-id="US4100034UO" tvg-name="Wicked Tuna [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100034UO_20260512T070318SQUARE.png" group-title="Reality Competition" tvg-chno="2785" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Wicked Tuna [DRM]
 https://jmp2.uk/stvp-US4100034UO
 #EXTINF:-1 tvg-id="CA1400021W0" tvg-name="Scrambled Up" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400021W0_20260616T032323SQUARE.png" group-title="Game Shows" tvg-chno="2802",Scrambled Up
 https://jmp2.uk/stvp-CA1400021W0
@@ -1807,7 +1807,7 @@ https://jmp2.uk/stvp-USBB4400017N3
 https://jmp2.uk/stvp-USBA3000100X
 #EXTINF:-1 tvg-id="US490000330" tvg-name="Family Feud Classic" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US490000330_20260421T141754SQUARE.png" group-title="Game Shows" tvg-chno="2841",Family Feud Classic
 https://jmp2.uk/stvp-US490000330
-#EXTINF:-1 tvg-id="US1900010IY" tvg-name="Celebrity Name Game [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900010IY_20260421T142136SQUARE.png" group-title="Game Shows" tvg-chno="2849" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US1900010IY&drm-type=widevine",Celebrity Name Game [DRM]
+#EXTINF:-1 tvg-id="US1900010IY" tvg-name="Celebrity Name Game [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900010IY_20260421T142136SQUARE.png" group-title="Game Shows" tvg-chno="2849" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Celebrity Name Game [DRM]
 https://jmp2.uk/stvp-US1900010IY
 #EXTINF:-1 tvg-id="CA1900002GF" tvg-name="The Ringer from Spotify" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1900002GF_20260714T041059SQUARE.png" group-title="Lifestyle & Pop Culture" tvg-chno="2902",The Ringer from Spotify
 https://jmp2.uk/stvp-CA1900002GF
