@@ -1877,7 +1877,7 @@ https://jmp2.uk/stvp-US3900006GL
 https://jmp2.uk/stvp-CA35000044I
 #EXTINF:-1 tvg-id="USBC1300012VK" tvg-name="Fear Zone [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20260707T035838SQUARE.png" group-title="Sci-Fi & Horror" tvg-chno="3005" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Fear Zone [DRM]
 https://jmp2.uk/stvp-USBC1300012VK
-#EXTINF:-1 tvg-id="US39000218V" tvg-name="Ghost Hunters [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000218V_20260421T141720SQUARE.png" group-title="Sci-Fi & Horror" tvg-chno="3009" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US39000218V&drm-type=widevine",Ghost Hunters [DRM]
+#EXTINF:-1 tvg-id="US39000218V" tvg-name="Ghost Hunters [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000218V_20260421T141720SQUARE.png" group-title="Sci-Fi & Horror" tvg-chno="3009" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Ghost Hunters [DRM]
 https://jmp2.uk/stvp-US39000218V
 #EXTINF:-1 tvg-id="USBB5200028MM" tvg-name="Mysteries Xplored" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200028MM_20260120T230343SQUARE.png" group-title="Sci-Fi & Horror" tvg-chno="3010",Mysteries Xplored
 https://jmp2.uk/stvp-USBB5200028MM
@@ -1889,7 +1889,7 @@ https://jmp2.uk/stvp-CA800004UD
 https://jmp2.uk/stvp-US800014B2
 #EXTINF:-1 tvg-id="USBD1200004NS" tvg-name="The Walking Dead Universe" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200004NS_20251104T004628SQUARE.png" group-title="Sci-Fi & Horror" tvg-chno="3015",The Walking Dead Universe
 https://jmp2.uk/stvp-USBD1200004NS
-#EXTINF:-1 tvg-id="US1900002QK" tvg-name="Universal Monsters [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900002QK_20260421T142339SQUARE.png" group-title="Sci-Fi & Horror" tvg-chno="3020" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US1900002QK&drm-type=widevine",Universal Monsters [DRM]
+#EXTINF:-1 tvg-id="US1900002QK" tvg-name="Universal Monsters [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900002QK_20260421T142339SQUARE.png" group-title="Sci-Fi & Horror" tvg-chno="3020" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Universal Monsters [DRM]
 https://jmp2.uk/stvp-US1900002QK
 #EXTINF:-1 tvg-id="US1800014CG" tvg-name="Alfred Hitchcock Presents [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png" group-title="Sci-Fi & Horror" tvg-chno="3025" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Alfred Hitchcock Presents [DRM]
 https://jmp2.uk/stvp-US1800014CG
@@ -2109,7 +2109,7 @@ https://jmp2.uk/stvp-CA47000081Z
 https://jmp2.uk/stvp-US2200007QG
 #EXTINF:-1 tvg-id="US2900012T8" tvg-name="Power Rangers [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900012T8_20260421T142220SQUARE.png" group-title="Kids" tvg-chno="3654" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Power Rangers [DRM]
 https://jmp2.uk/stvp-US2900012T8
-#EXTINF:-1 tvg-id="US29000168D" tvg-name="Transformers [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US29000168D_20260505T062527SQUARE.png" group-title="Kids" tvg-chno="3656" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=US29000168D&drm-type=widevine",Transformers [DRM]
+#EXTINF:-1 tvg-id="US29000168D" tvg-name="Transformers [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US29000168D_20260505T062527SQUARE.png" group-title="Kids" tvg-chno="3656" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",Transformers [DRM]
 https://jmp2.uk/stvp-US29000168D
 #EXTINF:-1 tvg-id="US2900013AY" tvg-name="Hot Wheels Action" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900013AY_20260421T142012SQUARE.png" group-title="Kids" tvg-chno="3657",Hot Wheels Action
 https://jmp2.uk/stvp-US2900013AY
