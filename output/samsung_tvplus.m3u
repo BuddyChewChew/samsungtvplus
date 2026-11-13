@@ -1439,7 +1439,7 @@ https://jmp2.uk/stvp-US2900014UU
 https://jmp2.uk/stvp-CA2900012S9
 #EXTINF:-1 tvg-id="US2900017P2" tvg-name="UFC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20260421T143247SQUARE.png" group-title="Sports & Outdoors" tvg-chno="2350",UFC
 https://jmp2.uk/stvp-US2900017P2
-#EXTINF:-1 tvg-id="CA2600001D9" tvg-name="One Championship TV [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2600001D9_20260421T141225SQUARE.png" group-title="Sports & Outdoors" tvg-chno="2352" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?service_id=CA2600001D9&drm-type=widevine",One Championship TV [DRM]
+#EXTINF:-1 tvg-id="CA2600001D9" tvg-name="One Championship TV [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2600001D9_20260421T141225SQUARE.png" group-title="Sports & Outdoors" tvg-chno="2352" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",One Championship TV [DRM]
 https://jmp2.uk/stvp-CA2600001D9
 #EXTINF:-1 tvg-id="US2600006VY" tvg-name="One Championship TV [DRM]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600006VY_20260421T143414SQUARE.png" group-title="Sports & Outdoors" tvg-chno="2352" drm="true" license-url="https://d54or4x1qhv8g.cloudfront.net/drm/v3/license?drm-type=widevine",One Championship TV [DRM]
 https://jmp2.uk/stvp-US2600006VY
