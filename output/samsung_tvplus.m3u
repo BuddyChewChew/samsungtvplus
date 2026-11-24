@@ -3281,7 +3281,7 @@ https://jmp2.uk/stvp-GBAK3504501A
 https://jmp2.uk/stvp-GB270001538
 #EXTINF:-1 tvg-id="USBD3300010L9" tvg-name="XITE Siempre Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20260421T141854SQUARE.png" group-title="Music" tvg-chno="4343",XITE Siempre Latino
 https://jmp2.uk/stvp-USBD3300010L9
-#EXTINF:-1 tvg-id="IT31000026G" tvg-name="Discovery [DRM]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT31000026G_20260622T101526SQUARE.png" group-title="Documentari" tvg-chno="4344" drm="true" license-url="https://d180olzqm6iw12.cloudfront.net/drm/v3/license?drm-type=widevine",Discovery [DRM]
+#EXTINF:-1 tvg-id="IT31000026G" tvg-name="Discovery" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT31000026G_20260622T101526SQUARE.png" group-title="Documentari" tvg-chno="4344",Discovery
 https://jmp2.uk/stvp-IT31000026G
 #EXTINF:-1 tvg-id="GBBD3100002NU" tvg-name="U&Real Heroes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100002NU_20250107T153919SQUARE.png" group-title="Documentaries" tvg-chno="4345",U&Real Heroes
 https://jmp2.uk/stvp-GBBD3100002NU
